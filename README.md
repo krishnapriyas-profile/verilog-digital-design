@@ -11,6 +11,4 @@ digital design projects.
 - Created a Verilog testbench
 - Verified the output using simulation
 
-## Tools
-- Verilog HDL
-- Xilinx Vivado / ModelSim
+
